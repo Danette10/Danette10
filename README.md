@@ -19,7 +19,7 @@
  
   Task planning software project made in C with the GTK+3.2 library, UI is made with Glade.&nbsp;
   
-<a href="https://github.com/Danette10/projet_mario_bros_C" target="_blank"><img height="100em" src="https://github-readme-stats.vercel.app/api/pin?username=Danette10&repo=projet_mario_bros_C&theme=dark&bg_color=00000000&title_color=39A6FF"/></a>
+<a href="https://github.com/Danette10/projet_mario_bros_C" target="_blank"><img height="100em" src="https://github-readme-stats.vercel.app/api/pin?username=Danette10&repo=projet_mario_bros_C"/></a>
 </details>
 
 <details>
