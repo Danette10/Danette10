@@ -33,3 +33,6 @@
 - 🎮 **Video Games:** I enjoy immersing myself in different worlds through gaming, which also helps improve my problem-solving skills.
 - 💻 **Python Scripting:** I love developing Python scripts to automate tasks and solve complex problems.
 
+## 🤝 Check out my colleagues' GitHub profiles
+- [DorianLC](https://github.com/DorianLC)
+- [MamadouMakadji](https://github.com/mamadoumakadji)
