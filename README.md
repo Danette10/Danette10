@@ -26,8 +26,8 @@
 ![Dan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danette10&show_icons=true&theme=radical)
 
 ## 🔥 Recent Projects
-- **[Ransomware:](https://github.com/Danette10/Ransomware)** 🛡️ A hands-on educational project that simulates ransomware operations to teach about the dangers and defenses against cyber threats. Includes safe simulation of encryption and decryption.
-- **[Spyware-Python:](https://github.com/Danette10/Spyware-Python)** 🕵️‍♂️ Explore the mechanics of spyware through this educational Python project. Designed to demonstrate spyware functionalities like keylogging, data capture in a safe environment and capture and send webcam live to the server.
+- **[PYTRO:](https://github.com/Danette10/PYTRO)** 🛡️ PYTRO is an educational project to demonstrate security risks of Remote Access Trojans (RATs) and promote cybersecurity awareness. Intended for ethical hacking and security research.
+- **[PYTRO-api:](https://github.com/Danette10/PYTRO-api)** 🕵️‍♂️ PYTRO-API is a RESTful API backend for the [PYTRO project](https://github.com/Danette10/PYTRO), designed for educational purposes to demonstrate security risks of Remote Access Trojans (RATs) and promote cybersecurity awareness.
 
 ## 💡 Personal Interests
 - 🎮 **Video Games:** I enjoy immersing myself in different worlds through gaming, which also helps improve my problem-solving skills.
