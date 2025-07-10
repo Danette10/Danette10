@@ -1,4 +1,4 @@
-# Hello, I'm Dan 👋
+# Hello, I'm Danette 👋
 
 ## 🧑‍💻 Cybersecurity Student
 - 🌐 Passionate about securing information systems.
