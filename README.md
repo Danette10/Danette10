@@ -29,17 +29,18 @@ Currently building educational security projects and developing practical skills
 
 ## 🔥 Featured Projects
 
-<p>
+<p align="center">
   <a href="https://github.com/Danette10/PYTRO">
-    <img src="https://github-readme-stats-theta-one-68.vercel.app/api/pin/?username=Danette10&repo=PYTRO&theme=radical&hide_border=true" />
+    <img src="https://github-readme-stats-theta-one-68.vercel.app/api/pin/?username=Danette10&repo=PYTRO&theme=radical&hide_border=true&cache_seconds=1" />
   </a>
-
   <a href="https://github.com/Danette10/ChaosMustDie">
-    <img src="https://github-readme-stats-theta-one-68.vercel.app/api/pin/?username=Danette10&repo=ChaosMustDie&theme=radical&hide_border=true" />
+    <img src="https://github-readme-stats-theta-one-68.vercel.app/api/pin/?username=Danette10&repo=ChaosMustDie&theme=radical&hide_border=true&cache_seconds=1" />
   </a>
+</p>
 
+<p align="center">
   <a href="https://github.com/Danette10/Frida_Hooking">
-    <img src="https://github-readme-stats-theta-one-68.vercel.app/api/pin/?username=Danette10&repo=Frida_Hooking&theme=radical&hide_border=true" />
+    <img src="https://github-readme-stats-theta-one-68.vercel.app/api/pin/?username=Danette10&repo=Frida_Hooking&theme=radical&hide_border=true&cache_seconds=1" />
   </a>
 </p>
 
@@ -56,8 +57,6 @@ Currently building educational security projects and developing practical skills
 - 🌐 Network Security
 - 🐍 Python Development
 - 🎮 Gaming
-
----
 
 ## 👥 Colleagues
 
